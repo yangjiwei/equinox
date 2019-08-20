@@ -1,0 +1,12 @@
+.idea/
+.idea/workspace.xml
+.DS_Store
+*.iml
+.classpath
+.project
+.springBeans
+.settings/
+target/
+*.lock
+classes/
+service-dubbo.properties*
